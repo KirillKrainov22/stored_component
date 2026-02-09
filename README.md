@@ -24,6 +24,7 @@
 ![Результат курсора](4_cursor.png)
 
 ### 5. Полноценный аудит с JSONB
-![Результат JSONB-аудита](5.1_audit_jsonb.png, 5.1_audit_jsonb.png)
+![Результат JSONB-аудита](5.1_audit_jsonb.png)
+![Результат JSONB-аудита](5.2_audit_jsonb.png)
 
 Все компоненты протестированы в pgAdmin. Работает корректно.
